@@ -33,3 +33,30 @@ Bxd4 20. Rxc8 Qxc8 21. exd4) 19... Bxd4 20. exd4 Qd5 21. Rd2 Ne4 22. Ne3 Rxc1
 Qxd1 (28. Nxd1 Nh3+ 29. Kf1 Qh1+ 30. Ke2 fxe6) 28... Nh3+) 24. Rd1 Qf3 25. Qc2
 Ng5 (25... Qf6) 26. Qc7 (26. d5 Nh3+ 27. Kf1 Qh1+ 28. Ke2 Qxh2 29. Rf1 Ng1+ 30.
 Ke1) 26... Nh3+ *
+
+
+
+
+
+==========Donot focus only on ONE PART of the Board as like you should have played d*c5 on move 18 instead of g4==========
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.05"]
+[Round "?"]
+[White "ISeth"]
+[Black "Fengjieming"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "2052"]
+[BlackElo "2228"]
+[Termination "Fengjieming won by resignation"]
+[Link "https://www.chess.com/game/live/127117176321"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 g6 4. O-O Bg7 5. d3 O-O 6. Nbd2 c6 7. Re1 Bg4 8. e4
+Nbd7 9. e5 Ne8 10. d4 c5 11. c3 e6 12. Nf1 Bxf3 13. Bxf3 b5 14. h4 h5 15. Nh2
+Nc7 16. Bg5 f6 17. exf6 Nxf6 18. g4 cxd4 19. cxd4 Qd6 20. gxh5 gxh5 21. Bxh5 Ne4
+22. Ng4 Nxf2 23. Nxf2 Qg3+ 24. Kh1 Rxf2 0-1
+
+
