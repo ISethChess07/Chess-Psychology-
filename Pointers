@@ -149,3 +149,29 @@ Rb5 Bd6 14. Bxa3) 13. Rxb7 Qxb7 14. Nxe5)) 9... Qd7 10. Re1 Nf6 11. e3 Bd6 12.
 exd4 cxd4 13. c5 Bc7 14. Nc4 e4 15. dxe4 fxe4 16. Bg5 O-O 17. Bxf6 exf3 18. Re7
 Qxe7 19. Bxe7 Nxe7 20. Qd7 fxg2 21. Qxc7 Nd5 22. Qxb7 Bf3 23. Ne5 Be4 24. Re1
 Nf6 25. Rxe4 Nxe4 26. Qxe4 Rad8 27. Kxg2 Rfe8 28. f4 d3 29. Qc4+ 1-0
+
+
+
+=============KIA Tactics on King side =================
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.06"]
+[Round "?"]
+[White "ISeth"]
+[Black "lottegiants10"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "2053"]
+[BlackElo "2154"]
+[Termination "lottegiants10 won by checkmate"]
+[Link "https://www.chess.com/game/live/127205375063"]
+
+1. Nf3 Nf6 2. g3 g6 3. d3 Bg7 4. Bg2 O-O 5. e4 d6 6. O-O Nc6 7. Nbd2 b6 8. c3
+Bb7 9. Qe2 Re8 10. e5 Nxe5 11. Nxe5 Bxg2 12. Kxg2 (12. Nxf7 Bxf1 13. Qe6 Qc8 14.
+Nh6+ Kh8 15. Qg8+) 12... dxe5 13. Nc4 Qd5+ 14. Kg1 e4 15. d4 c5 16. Ne3 Qd6 17.
+dxc5 Qxc5 18. Ng2 Red8 19. Be3 Qc6 20. Bg5 h6 21. Bxf6 exf6 22. Rad1 f5 23. h4
+Qa4 24. a3 Rac8 25. Nf4 Qc6 26. Rd2 g5 27. Nh5 gxh4 28. Nxg7 Kxg7 29. Rfd1 Rxd2
+30. Rxd2 hxg3 31. fxg3 Qg6 32. Kh2 Qg5 33. Rd6 Rd8 34. Rd4 Rxd4 35. cxd4 Qg4 36.
+Qb5 Kg6 37. Qc6+ f6 38. Qe8+ Kg5 39. Qg8+ Kh5 40. Qf7+ Qg6 41. Qe6 Qg5 42. Qf7+
+Kg4 43. Qb3 Qd2+ 44. Kh1 Qd3 45. Qg8+ Kf3 46. d5 Qf1+ 47. Kh2 Qg2# 0-1
