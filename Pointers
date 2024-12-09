@@ -175,3 +175,40 @@ Qa4 24. a3 Rac8 25. Nf4 Qc6 26. Rd2 g5 27. Nh5 gxh4 28. Nxg7 Kxg7 29. Rfd1 Rxd2
 30. Rxd2 hxg3 31. fxg3 Qg6 32. Kh2 Qg5 33. Rd6 Rd8 34. Rd4 Rxd4 35. cxd4 Qg4 36.
 Qb5 Kg6 37. Qc6+ f6 38. Qe8+ Kg5 39. Qg8+ Kh5 40. Qf7+ Qg6 41. Qe6 Qg5 42. Qf7+
 Kg4 43. Qb3 Qd2+ 44. Kh1 Qd3 45. Qg8+ Kf3 46. d5 Qf1+ 47. Kh2 Qg2# 0-1
+
+
+
+
+===================Semi Slav Defense with Patterns ====================
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.09"]
+[Round "?"]
+[White "AtulBorude"]
+[Black "ISeth"]
+[Result "1-0"]
+[TimeControl "900+10"]
+[WhiteElo "2024"]
+[BlackElo "1999"]
+[Termination "AtulBorude won by resignation"]
+[ECO "D10"]
+[EndTime "5:10:20 GMT+0000"]
+[Link "https://www.chess.com/game/live/127457963611"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5 Nbd7 6. e3 Be7 7. c5 h6 8. Bh4 O-O
+9. Bd3 e5 10. dxe5 Ng4 11. Bxe7 Qxe7 12. b4 Ndxe5 13. Be2 a5 14. a3 Qf6 15. Nxe5
+Nxe5 16. O-O Bf5 17. b5 Rfd8 18. Qd4 Qe7 19. Na4 Nd7 20. Rac1 Rac8 21. h3 Re8
+22. Rfd1 Qg5 23. Nb6 Bxh3 24. Bf3 Ne5 25. Qf4 Nxf3+ 26. Qxf3 Bg4 27. Qg3 Bxd1
+28. Qxg5 hxg5 29. Nxc8 Rxc8 30. Rxd1 cxb5 31. Rxd5 f6 32. Kf1 Kf8 33. Ke2 Ke7
+34. Kd3 Rd8 35. e4 Rxd5+ 36. exd5 f5 37. Kd4 f4 38. g4 Kf6 39. f3 Ke7 40. Ke5
+Kd7 41. Kd4 Kc7 42. Kc3 Kd7 43. Kd4 Ke7 44. Ke5 Kd8 45. Kd4 Ke8 46. c6 bxc6 47.
+dxc6 Kd8 48. Kc5 b4 49. axb4 axb4 50. Kxb4 Kc7 51. Kc5 Kc8 52. Kd6 Kd8 53. Ke6
+Kc7 54. Kf5 Kxc6 55. Kxg5 Kd6 56. Kxf4 Ke6 57. Kg5 Kf7 58. f4 Kf8 59. Kg6 Kg8
+60. f5 Kh8 61. g5 Kg8 62. f6 gxf6 63. gxf6 Kh8 64. Kf7 Kh7 65. Ke8 1-0
+
+
+----> Look at the Middle game pattern with Knight Sacrifice with N*f2
+----> Look at the Endgame where your King needs to make the right exchange with Rook
+----> All these Patterns are not unfamiliar , but you should have time on clock to make the right choice
