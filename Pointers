@@ -212,3 +212,36 @@ Kc7 54. Kf5 Kxc6 55. Kxg5 Kd6 56. Kxf4 Ke6 57. Kg5 Kf7 58. f4 Kf8 59. Kg6 Kg8
 ----> Look at the Middle game pattern with Knight Sacrifice with N*f2
 ----> Look at the Endgame where your King needs to make the right exchange with Rook
 ----> All these Patterns are not unfamiliar , but you should have time on clock to make the right choice
+
+
+============Queen Side attack with b4 with Pawns attack ===========
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.09"]
+[Round "?"]
+[White "ISeth"]
+[Black "Guysh222"]
+[Result "0-1"]
+[TimeControl "900+10"]
+[WhiteElo "1991"]
+[BlackElo "2011"]
+[Termination "Guysh222 won by resignation"]
+[ECO "A11"]
+[EndTime "6:42:50 GMT+0000"]
+[Link "https://www.chess.com/game/live/127462763507"]
+
+1. c4 c6 2. Nf3 Nf6 3. g3 d5 4. Bg2 Bf5 5. O-O e6 6. b3 Nbd7 7. Bb2 Qb6 8. d3
+dxc4 9. dxc4 O-O-O 10. Nc3 Nc5 11. Qc1 Be7 12. Ba3 Rhe8 13. Ne5 Bg6 14. Nxg6
+hxg6 15. Bxc5 Qxc5 16. Na4 Qb4 17. Rd1 Rxd1+ 18. Qxd1 Rd8 19. Qc1 Rd2 20. a3 Qd6
+21. c5 Qd7 22. Qc3 Rxe2 23. Qa5 Qd4 24. Rf1 Bd8 25. Qxa7 Nd7 26. b4 Bc7 27. b5
+Bb8 28. Qa8 Nxc5 29. Nxc5 Qxc5 30. bxc6 Qa7 31. Qxb7+ Qxb7 32. cxb7+ Kd7 33.
+Rd1+ Ke7 34. Bf3 Ra2 35. Rd3 Ba7 36. Bc6 Rxf2 37. Kh1 Rb2 38. a4 Rb6 39. Rd7+
+Kf6 40. Bb5 e5 41. Kg2 Ke6 42. Rd8 f5 43. Kf3 e4+ 44. Ke2 Rxb7 45. Re8+ Re7 46.
+Bc4+ Kf6 47. Rf8+ Kg5 48. h3 Bc5 49. Rc8 Bd6 50. Rc6 Bxg3 51. a5 Ra7 52. a6 Kh5
+53. Rc8 Bf4 54. Rh8+ Bh6 55. Rb8 Kh4 56. Rb7 Rxb7 57. axb7 Bf4 58. Bf7 g5 59.
+Be6 g4 60. Bxf5 gxh3 61. Bxe4 g5 62. Kf3 Bc7 63. Bf5 Bd6 64. Bg4 h2 65. Kg2 Kxg4
+0-1
+
+
