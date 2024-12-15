@@ -141,3 +141,31 @@ Bxb2 16. Qxb2 Nd6 17. Ne5 Nxe5 18. Qxe5 dxc4 19. dxc4 Rcd8 20. Nf1 Rd7 21. Rc2
 Rfd8 22. Rcd2 Ne8 23. Rxd7 Rxd7 24. Qb8 Rxd1 25. Bxd1 Kf8 26. Bf3 Bxf3 27. gxf3
 Qc7 28. Qa8 Ke7 29. Ng3 Nd6 30. Qg8 g6 31. Qxh7 Qd7 32. Kg2 Kd8 33. Qh8+ Kc7 34.
 Qc3 Qe7 35. Qd3 Qg5 36. Qxd6+ *
+
+
+
+=====================How to win a Knight Endgame ===pattern to be recognized===========
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.15"]
+[Round "?"]
+[White "Castor_Sark"]
+[Black "ISeth"]
+[Result "1/2-1/2"]
+[TimeControl "600"]
+[WhiteElo "2086"]
+[BlackElo "2051"]
+[Termination "Game drawn by repetition"]
+[Link "https://www.chess.com/game/live/128023761109"]
+
+1. d4 Nf6 2. Nf3 c5 3. e3 g6 4. b3 Bg7 5. Bb2 O-O 6. Nbd2 Nc6 7. a3 d5 8. dxc5
+Re8 9. Bd3 e5 10. Bb5 Nd7 11. O-O Nxc5 12. Bxc6 bxc6 13. Re1 Qc7 14. e4 d4 15.
+Nc4 Ba6 16. Qe2 Rad8 17. Rad1 Qb8 18. Ba1 d3 19. cxd3 Qxb3 20. Nfxe5 Bxc4 21.
+Nxc4 Bxa1 22. Rxa1 Qxd3 23. Qxd3 Nxd3 24. Re3 Rd4 25. Na5 Nf4 26. Nxc6 Rdxe4 27.
+Rae1 Rxe3 28. fxe3 Nd3 29. Rd1 Rxe3 30. Nxa7 Nc5 31. Ra1 Na4 32. Nc6 f5 33. Kf2
+Rc3 34. Re1 Rxc6 35. Re8+ Kg7 36. Re7+ Kh6 37. Ra7 Nc5 38. a4 Ra6 39. Rxa6 Nxa6
+40. Ke3 Kg5 41. Kd4 Kf4 42. Kc4 Ke3 43. Kb5 Nc7+ 44. Kb6 Nd5+ 45. Kc5 Ke4 46. a5
+Nc7 47. Kb6 Nd5+ 48. Kc5 Nc7 (48... f4 49. a6 Nc7 50. Kc6 (50. a7 Na8 51. Kc6
+Ke5 52. Kb7 Kd6 53. Kxa8 Kc7 54. h4 h6 55. h5 gxh5 56. g3 f3 57. g4 h4 58. g5 h5
+59. g6 f2 60. g7 f1=Q 61. g8=Q Qf3+ 62. Qd5 Qxd5#)) 49. Kb6 Nd5+ 50. Kc5 1/2-1/2
