@@ -169,3 +169,25 @@ Rc3 34. Re1 Rxc6 35. Re8+ Kg7 36. Re7+ Kh6 37. Ra7 Nc5 38. a4 Ra6 39. Rxa6 Nxa6
 Nc7 47. Kb6 Nd5+ 48. Kc5 Nc7 (48... f4 49. a6 Nc7 50. Kc6 (50. a7 Na8 51. Kc6
 Ke5 52. Kb7 Kd6 53. Kxa8 Kc7 54. h4 h6 55. h5 gxh5 56. g3 f3 57. g4 h4 58. g5 h5
 59. g6 f2 60. g7 f1=Q 61. g8=Q Qf3+ 62. Qd5 Qxd5#)) 49. Kb6 Nd5+ 50. Kc5 1/2-1/2
+
+
+
+========================New Idea of e4 pawn Sacrifice===================
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.15"]
+[Round "-"]
+[White "ISeth"]
+[Black "rudolfflorijan"]
+[Result "1-0"]
+[WhiteElo "2067"]
+[BlackElo "2035"]
+
+1. Nf3 c5 2. g3 a6 $6 3. Bg2 b5 $6 4. O-O $6 Bb7 5. a4 Nf6 6. axb5 (6. e4 Bxe4
+(6... Nxe4 7. Ng5 d5 8. Nxe4 dxe4 9. d3 e6 10. Bxe4 Bxe4 11. dxe4 Qxd1 12. Rxd1
+b4 13. Nd2 Be7 14. Nc4 Nc6) 7. Nc3 Bb7 (7... Bc6 8. axb5) 8. axb5) 6... axb5 7.
+Rxa8 Bxa8 8. Na3 Qb6 $6 9. d3 $6 e6 10. Be3 $6 Nd5 11. Bd2 Bc6 12. c4 bxc4 $2 13.
+Nxc4 Qd8 14. Nfe5 $6 Be7 $1 15. Nxc6 $6 Nxc6 16. e4 Nf6 $2 17. Bg5 $9 Qc7 $9 18. f4 $9 d6
+$9 19. e5 $1 dxe5 $2 20. Bxc6+ Qxc6 21. fxe5 $1 Nd5 22. Bxe7 Nxe7 23. Nd6+ $1 Kd7 24.
+Rxf7 Qd5 $6 25. Qa4+ Kd8 26. Qa5+ Kd7 27. Qa7+ 1-0
