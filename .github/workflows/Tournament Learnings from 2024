@@ -268,3 +268,56 @@ Rc1 Ne4 16. Qd3 f6 17. Ng4 Qb6 18. Ba1 Bf4 19. Rb1 Qc6 20. c4 dxc4 21. Qe2 Qd5
 22. Ne3 Bxe3 23. fxe3 Bc6 24. Rfc1 b5 25. a4 Ra8 26. axb5 Bxb5 27. Nd2 Rfb8 28.
 Nxe4 Qxe4 29. Bc3 Bc6 30. Rxb8+ Rxb8 31. Ra1 h6 32. h3 Rb3 33. Bd2 Rb2 34. Rf1
 c3 35. Rf4 Qb1+ 36. Kh2 Rxd2 0-1
+
+
+==================Reti Opening with b4 =========================
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.16"]
+[Round "?"]
+[White "ISeth"]
+[Black "AboEl3zz-GM"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "2083"]
+[BlackElo "2045"]
+[Termination "ISeth won on time"]
+[Link "https://www.chess.com/game/live/128109643377"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. c4 d4 5. O-O c5 6. d3 Nf6 7. b4 cxb4 8. Bb2 (8.
+Qa4+ Nc6 9. Ne5 O-O 10. Nxc6 bxc6 11. Qxb4) 8... Nc6 9. Nbd2 e5 10. a3 bxa3 11.
+Bxa3 Bf8 12. Qa4 Bd7 13. Rab1 b6 (13... Na5 14. Rb5 Bxb5 15. Qxb5+ Nc6 (15...
+Nd7 16. Nxe5 Bxa3 17. Nxd7 Qxd7 18. Qe5+)) 14. Qb3 Bxa3 15. Qxa3 Qe7 16. Qa2 O-O
+17. Ng5 h6 18. Nge4 Nxe4 19. Nxe4 f5 20. Nd2 Kg7 21. Bd5 Nb4 22. Rxb4 Qxb4 23.
+Bxa8 Rxa8 24. Nf3 Kf6 25. Rb1 Qd6 26. Qa6 e4 27. Nh4 Bc8 28. Qb5 Bb7 29. c5 Qc6
+30. Qxc6+ Bxc6 31. cxb6 axb6 32. dxe4 fxe4 33. Rxb6 Ra1+ 34. Kg2 Rc1 35. e3 g5
+36. exd4 gxh4 37. d5 hxg3 38. hxg3 Ke7 39. dxc6 Rc2 40. Kf1 Kd6 41. c7+ Kxc7 42.
+Rxh6 Rc1+ 43. Ke2 Rc2+ 44. Ke3 Rb2 45. Re6 Ra2 46. Rxe4 Ra3+ 47. Kf4 Ra2 48. f3
+Ra3 49. g4 Ra2 50. g5 Rg2 51. Kf5 Rg3 52. f4 1-0
+
+
+When you sac the Pawn you need to play Qa4 and remember the line 
+
+
+==================A Kingside Attack which you must know how to defend==================
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.16"]
+[Round "?"]
+[White "MiR_fly"]
+[Black "ISeth"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "2070"]
+[BlackElo "2076"]
+[Termination "MiR_fly won by checkmate"]
+[ECO "A31"]
+[EndTime "17:13:58 GMT+0000"]
+[Link "https://www.chess.com/game/live/128107222695"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 g6 4. c4 b5 5. Nc3 b4 6. Na4 d6 7. Qc2 Bg7 8. e4 O-O
+9. Be2 Bd7 10. Bd3 Qa5 11. b3 Nxe4 12. Bxe4 Bxa1 13. Kf1 Bg7 14. h4 h5 15. Ng5
+Bxa4 16. Bxg6 Bd7 17. Bf5 Qc7 18. Be6 Rd8 19. Bxf7+ Kf8 20. Qh7 e5 21. Qg8+ Ke7
+22. Qxg7 Be8 23. Be6+ Bf7 24. Nxf7 Na6 25. Bg5+ Ke8 26. Nxd6+ Rxd6 27. Qg8# 1-0
