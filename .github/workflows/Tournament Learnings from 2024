@@ -245,3 +245,26 @@ Rxf6 gxf6 29. Qxh7+ Kf8 30. Qh8+ Ke7 31. Rh7+ Kd8 32. Qxf6+ Re7 33. Qxe7# 1-0
 
 The Game is about when Opponent gives a Piece move you must encounter with a Piece move and not Pawn move with b4 which is a blunder.
 N*b3 was necessary
+
+
+======================Game Opening needs to be analyzed throughly===============
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.16"]
+[Round "?"]
+[White "ISeth"]
+[Black "Agrimont"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "2073"]
+[BlackElo "2161"]
+[Termination "Agrimont won by resignation"]
+[Link "https://www.chess.com/game/live/128071750195"]
+
+1. Nf3 Nf6 2. b4 e6 3. a3 c5 4. b5 d5 5. e3 Bd6 6. Bb2 a6 7. d4 O-O 8. Nbd2 axb5
+9. Bxb5 Nc6 10. O-O Bd7 11. Bxc6 Bxc6 12. Ne5 Ba4 13. Ndf3 cxd4 14. exd4 Rc8 15.
+Rc1 Ne4 16. Qd3 f6 17. Ng4 Qb6 18. Ba1 Bf4 19. Rb1 Qc6 20. c4 dxc4 21. Qe2 Qd5
+22. Ne3 Bxe3 23. fxe3 Bc6 24. Rfc1 b5 25. a4 Ra8 26. axb5 Bxb5 27. Nd2 Rfb8 28.
+Nxe4 Qxe4 29. Bc3 Bc6 30. Rxb8+ Rxb8 31. Ra1 h6 32. h3 Rb3 33. Bd2 Rb2 34. Rf1
+c3 35. Rf4 Qb1+ 36. Kh2 Rxd2 0-1
