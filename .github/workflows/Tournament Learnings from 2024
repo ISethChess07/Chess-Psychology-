@@ -218,3 +218,30 @@ Bf4) 20... Kg8 21. Qe3 Nxd4 22. g3) 12... Be7 13. Ne5 Qc8 14. a4 O-O 15. Bb2 Nc6
 Ne5+ Kh8 23. Nxd7 Rg8 24. Qf3 f5 25. Nd4 Nxd4 26. exd4 Ra7 27. Ne5 Nc3 28. Rb6
 a4 29. Rxe6 b5 30. Qh5 Bg5 31. Nf7+ Rxf7 32. Qxf7 a3 33. Re8 Rxe8 34. Qxe8+ Kg7
 35. Qd7+ Kg6 36. Qc6+ Bf6 37. Qxc3 Be7 38. Qb3 b4 39. Qxd5 1-0
+
+
+===============A learning Sicilian Game =============
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.16"]
+[Round "?"]
+[White "JhonVivs"]
+[Black "ISeth"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "2102"]
+[BlackElo "2075"]
+[Termination "JhonVivs won by checkmate"]
+[ECO "B23"]
+[EndTime "4:46:00 GMT+0000"]
+[Link "https://www.chess.com/game/live/128062191681"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Be2 e6 7. Be3 Be7 8. Qd2
+O-O 9. O-O Qc7 10. Ndb5 Qb8 11. Rad1 Rd8 12. Bf4 e5 13. Bg5 Be6 14. f4 a6 15. f5
+axb5 16. fxe6 fxe6 17. Bxb5 Nd4 18. Bxf6 Bxf6 19. Bc4 Qc7 20. Qd3 Rac8 21. Bb3
+Qc5 22. Kh1 b5 23. Qh3 Re8 24. Qg4 Kf7 25. Qh5+ Kg8 26. Rd3 b4 27. Rh3 bxc3 28.
+Rxf6 gxf6 29. Qxh7+ Kf8 30. Qh8+ Ke7 31. Rh7+ Kd8 32. Qxf6+ Re7 33. Qxe7# 1-0
+
+The Game is about when Opponent gives a Piece move you must encounter with a Piece move and not Pawn move with b4 which is a blunder.
+N*b3 was necessary
