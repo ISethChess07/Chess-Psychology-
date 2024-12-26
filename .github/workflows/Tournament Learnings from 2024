@@ -346,3 +346,27 @@ Qe1 Qd6 22. Nc1 b4 23. Qe4 g6 24. h5 Rd4 25. Qb7 Bxg5 26. hxg6 hxg6 27. Nb3 Rd5
 28. Rdg1 Bf6 (28... Nxd3 29. cxd3 Rxd3 (29... Bf4 30. Qa7 Rxd3 31. Qf2 Qf6)) 29.
 Bc4 a5 (29... e4 30. Bxd5 Nxd5 31. fxe4 Qe5 32. Rxg6+ fxg6 33. Qh7+ Kf8 34. Qh6+
 Kf7 35. Qc1 Ne3) 30. Bxd5 Qxd5 31. Qb6 a4 32. Qxf6 axb3 33. Rh8# 1-0
+
+
+
+===================Queen trap Pattern =======================
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.26"]
+[Round "?"]
+[White "NewDiogenes"]
+[Black "ISeth"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "2217"]
+[BlackElo "2116"]
+[Termination "NewDiogenes won by resignation"]
+[Link "https://www.chess.com/game/live/128941423023"]
+
+1. d4 Nf6 2. Nc3 e6 3. Bf4 Bb4 4. e3 O-O 5. Bd3 c5 6. dxc5 Nd5 7. Ne2 Qa5 8. O-O
+Bxc3 9. Nxc3 Nxf4 10. exf4 Qxc5 11. Ne4 Qe7 12. Qh5 g6 13. Qh6 Nc6 14. Ng5 f6
+15. Ne4 b6 16. h4 Qg7 17. Qxg7+ Kxg7 18. Nd6 Nb4 19. Be4 Ba6 20. Rfd1 Rab8 21.
+c3 Nc6 22. b4 Ne7 23. b5 f5 24. Bf3 Bc8 25. Nxc8 Rbxc8 26. Rxd7 Kf6 27. Rxa7
+Rxc3 28. Rd1 Rfc8 29. Rdd7 Re8 30. Bc6 h6 31. Rdb7 Rxc6 32. bxc6 g5 33. hxg5+
+hxg5 34. fxg5+ 1-0
