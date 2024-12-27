@@ -455,7 +455,30 @@ Bd6 16. Bxd6 Nxd6 17. Qh3 Nf5 18. Nf4 Qe8 19. Rde1 e5 20. dxe5 Nxe5 21. Bc2 Nd6
 22. Ne6 Rf3 23. Qg2 Qxe6 24. e4 dxe4 25. Bxe4 Nxe4 26. Rxe4 Nd3+ *
 
 
+=================Learning Sicilian Najdorf===============
 
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.12.27"]
+[Round "?"]
+[White "Giljagaur"]
+[Black "ISeth"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "2138"]
+[BlackElo "2127"]
+[Termination "ISeth won by resignation"]
+[Link "https://www.chess.com/game/live/129069231177"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 Be7 8. Qd2
+O-O 9. O-O-O b5 10. g4 Bb7 (10... b4 11. Nb1 d5 12. g5 Ne8 13. Bf4 Bb7 14. h4
+dxe4) 11. h4 Nbd7 12. h5 Nb6 (12... b4 13. Nce2 h6 14. g5 hxg5 15. Bxg5 Qa5 16.
+Kb1 Nxe4 17. fxe4 Bxg5 18. Qxg5 (18. Qe1) (18. Qd3 Nc5 19. Qf3 Bxe4 20. Qg4 Bxh1
+21. Qxg5)) 13. g5 Nfd7 14. g6 b4 15. Nb1 Bf6 16. h6 hxg6 17. hxg7 Bxg7 18. Qh2
+Re8 19. Qh7+ Kf8 20. Bh6 Bxh6+ 21. Qxh6+ Ke7 22. Qg5+ Nf6 23. e5 dxe5 24. Nf5+
+gxf5 25. Rxd8 Raxd8 26. Rh6 Nd7 27. Nd2 Rg8 28. Qh4 Rg1 29. Qf2 Rdg8 30. Qb6
+(30. b3 R8g2 31. Qxg2 Rxg2 32. Bxg2 Nd5 33. Rh4 a5 34. Nc4 Nf4 35. Bf1 (35. Bh1
+Ng6 36. Rh2 a4)) 30... Nxb6 0-1
 
 
 
