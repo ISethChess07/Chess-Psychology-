@@ -55,7 +55,28 @@ e5 28. Rhe1 Nf4 29. Kb1 Rxd4 30. Rxe2 Rxd1+ 31. Kc2 Rc1+ 32. Kxc1 Nxe2+ 33. Kd2
 Nxg3 34. hxg3 *
 
 
+Sample game where Openings was good but Middlegame needs improvement 
 
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.02.02"]
+[Round "?"]
+[White "UMyo2024"]
+[Black "ISeth"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "2130"]
+[BlackElo "2055"]
+[Termination "UMyo2024 won by resignation"]
+[Link "https://www.chess.com/game/live/132245434431?move=37"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 e6 7. Bd3 c5 8. O-O
+Qc7 9. c4 cxd4 10. Nxd4 Bc5 11. Nb5 Qb8 12. a3 a6 13. Nc3 O-O 14. Bg5 h6 15. Bd2
+b6 16. b4 Bd4 17. Rc1 Bb7 18. Qe2 Ne5 19. Bf4 Nfd7 20. Nce4 f5 21. Nd2 Qe8 22.
+Bb1 Ng6 23. Bd6 Bb2 24. Rce1 e5 25. Bxf8 Qxf8 26. Nxf5 e4 27. Ne3 Bxa3 28. Nxe4
+Nf4 29. Qc2 Re8 30. Ng4 Bxb4 31. Re3 Nh5 32. Ng5 Nhf6 33. Nh7 Qd6 34. Nhxf6+
+Nxf6 35. Nxf6+ Qxf6 36. Rxe8+ Kf7 37. Rb8 Bxg2 38. Kxg2 Qg5+ 39. Kh1 Qf4 40.
+Qg6+ Ke7 41. Rb7+ 1-0
 
 
 
