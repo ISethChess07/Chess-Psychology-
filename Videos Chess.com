@@ -39,5 +39,9 @@ https://www.chess.com/video/player/learn-the-sicilian-with-2-e6
 
 https://www.chess.com/video/player/name-your-pawns-barry-the-b-pawn
 
+9. Learning Combination 
+
+https://www.chess.com/video/player/paravyans-brilliant-attack-modern-chess-masterpieces
+
 
 
