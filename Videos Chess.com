@@ -35,5 +35,9 @@ https://www.chess.com/video/player/the-scheveningen-structure-every-pawn-structu
 
 https://www.chess.com/video/player/learn-the-sicilian-with-2-e6
 
+8. Barry the b-pawn 
+
+https://www.chess.com/video/player/name-your-pawns-barry-the-b-pawn
+
 
 
