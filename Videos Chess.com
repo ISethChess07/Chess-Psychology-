@@ -27,5 +27,13 @@ Hilibily Attack (Try as White )
 
 https://www.chess.com/video/player/hillbilly-attack-thorfinnsson-vs-petursson
 
+6. Sicilian Schevengien 
+
+https://www.chess.com/video/player/the-scheveningen-structure-every-pawn-structure-explained
+
+7. Sicilian Kan 
+
+https://www.chess.com/video/player/learn-the-sicilian-with-2-e6
+
 
 
