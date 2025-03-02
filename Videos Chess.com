@@ -43,5 +43,17 @@ https://www.chess.com/video/player/name-your-pawns-barry-the-b-pawn
 
 https://www.chess.com/video/player/paravyans-brilliant-attack-modern-chess-masterpieces
 
+10. French 
+
+Wing Bambit with b4
+
+https://www.chess.com/video/player/every-gambit-refuted-french-wing-gambit
+
+11. Attack on h6 
+
+https://www.chess.com/video/player/sacrifice-on-h6-lets-do-it-from-a-french-defense-structure
+
+https://www.chess.com/video/player/sacrifice-on-h6-lets-do-it-again-from-a-french-defense-structure
+
 
 
