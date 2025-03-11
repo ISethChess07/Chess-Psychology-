@@ -55,5 +55,15 @@ https://www.chess.com/video/player/sacrifice-on-h6-lets-do-it-from-a-french-defe
 
 https://www.chess.com/video/player/sacrifice-on-h6-lets-do-it-again-from-a-french-defense-structure
 
+12. Evans Gambit 
+
+https://www.chess.com/video/player/spicy-openings-the-evans-gambit-play-like-an-attacking-mastermind --Simon Williams 
+
+https://www.chess.com/video/player/spicy-openings-the-evans-gambit-the-theory-behind-the-beauty --Simon Williams 
+
+https://www.chess.com/video/player/learn-the-evans-gambit
+
+
+
 
 
