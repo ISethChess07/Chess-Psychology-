@@ -67,5 +67,7 @@ https://www.chess.com/video/player/spicy-openings-the-evans-gambit-famous-evergr
 
 https://www.chess.com/video/player/the-evans-gambit-with-5ba5 --GM stopinsky 
 https://www.chess.com/video/player/the-evans-gambit-part-3-with-5bd6 --GM stopinsky 
+https://www.chess.com/video/player/kaidanovs-comprehensive-repertoire-two-knights-defense---part-3 -- GM Kaidanov
+
 
 
