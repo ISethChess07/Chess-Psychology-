@@ -63,7 +63,9 @@ https://www.chess.com/video/player/spicy-openings-the-evans-gambit-the-theory-be
 
 https://www.chess.com/video/player/learn-the-evans-gambit
 
+https://www.chess.com/video/player/spicy-openings-the-evans-gambit-famous-evergreen-game
 
-
+https://www.chess.com/video/player/the-evans-gambit-with-5ba5 --GM stopinsky 
+https://www.chess.com/video/player/the-evans-gambit-part-3-with-5bd6 --GM stopinsky 
 
 
