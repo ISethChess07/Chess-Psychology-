@@ -72,4 +72,9 @@ https://www.chess.com/video/player/the-evans-gambit-part-3-with-5bd6 --GM stopin
 https://www.chess.com/video/player/kaidanovs-comprehensive-repertoire-two-knights-defense---part-3 -- GM Kaidanov
 
 
+13. Carlsbad pawn Structure 
+
+https://www.chess.com/video/player/mikhail-botvinniks-carlsbad-pawn-structure-plan
+
+
 
