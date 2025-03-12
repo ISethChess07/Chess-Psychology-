@@ -76,5 +76,7 @@ https://www.chess.com/video/player/kaidanovs-comprehensive-repertoire-two-knight
 
 https://www.chess.com/video/player/mikhail-botvinniks-carlsbad-pawn-structure-plan
 
+https://www.chess.com/video/player/the-carlsbad-every-pawn-structure-explained
+
 
 
