@@ -49,6 +49,17 @@ Wing Bambit with b4
 
 https://www.chess.com/video/player/every-gambit-refuted-french-wing-gambit
 
+
+Simon loves the French 
+
+https://www.chess.com/video/player/why-simon-loves-the-french-the-classical-variation
+
+https://www.chess.com/video/player/why-simon-loves-the-french-classical-variation-with-4e5
+
+
+
+
+
 11. Attack on h6 
 
 https://www.chess.com/video/player/sacrifice-on-h6-lets-do-it-from-a-french-defense-structure
